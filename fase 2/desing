@@ -1,1 +1,87 @@
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible"  content="IE=eDge">
+     <meta name="viewport" content="width=device-width, inicial-scale=1.0">
+     <titile> Etiquetas Basicas de HTML, atributos y valores</titile>
+</head>
+<body>
+     <!-- Cabecera -->
+     <header>
+         <h1>Etiquetas Basicas de de HTML, atributos y valores</h1>
+     </header>
+
+     <!-- Menu -->
+     <nav>
+         <ul>
+            <li>Inicio</li>
+            <li>Temas
+                 <ul>
+                     <li>Tema 1</li>
+                     <li>Tema 2</li>
+                  </ul>
+             </li>
+             <li>Recursos Digitales
+                  <ul>
+                     <li>Recurso 1</li>
+                     <li>Recurso 2</li>
+                  </ul>
+             </li>
+             <li>Aprendizaje
+                  <ul>
+                     <li>Actividad 1</li>
+                     <li>Actividad 2</li>
+                   </ul>
+             </li>
+             <li>Acrca de
+                   <ul>
+                        <li>Brian Hernandez</li>
+                   </ul>
+               </li>
+            </ul>
+       </nav>
+
+        <!-- Proposito sitio web -->
+        <section>
+            <div>
+                 <h2>Proposito del sitio web</h2>
+                 <p>
+                     Las etiquetas son la estructura básica del HTML. Estas etiquetas o tags se componen y contienen otras propiedades, como son los atributos y el contenido.
+                 </p>
+            </div>
+       </section>
+
+       <!-- Descripcion de tema -->
+       <article>
+            <div>
+                <h2>Etiquetas de HTML</h2>
+                <h3>Visual Studio Code</h3>
+                <img src="https://ney.one/wp-content/uploads/2019/08/Estructura-de-una-documento-HTML.png"  width="200"  alt="HTML">
+                <p>
+                    Esta herramienta multi-código gratuita de edición HTML viene lista para usarse con una gran 
+                    variedad de funciones personalizables. Se destacapor su autocompletado y otras respuestas
+                    sintacticas inteligentes. Visual Studio Code es un programa de multiples idiomas y plataformas.
+                    <br>
+                    <i>https://www.hostinger.co/tutoriales/mejores-editores-html#5-Visual-Studio-Code</i>
+                </p>
+            </div>
+        </article>
+
+        <div>   
+            <img src="mockup.png"  width="400" alt="mockup">
+        </div>
+
+        <!-- Pie de Pagina -->
+        <footer>
+             <div>Email: bhernandezsu@unadvirtual.edu.co</div>
+             <div>Skipe: .cid.dd60a0373c702947</div>
+             <div>24/06/2021</div>
+       </footer>
+    </body>
+</html>    
+
+                                        
+
+
+
 
